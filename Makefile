@@ -1,7 +1,7 @@
 .PHONY: build build-all build-linux build-windows build-macos clean
 
 BINARY_NAME=ipbak
-CMD_PATH=cmd/ipbak/main.go
+CMD_PATH=./cmd/ipbak
 
 build:
 	go build -o $(BINARY_NAME) $(CMD_PATH)
