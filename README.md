@@ -30,7 +30,7 @@
 Requires Go 1.21+
 
 ```bash
-git clone https://github.com/yourusername/ipbak.git
+git clone https://github.com/NecatiUlker/ipbak.git
 cd ipbak
 make build
 ```
