@@ -1,0 +1,24 @@
+# Binaries
+ipbak
+ipbak.exe
+*.exe
+*.dll
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Go
+vendor/
+
+# User Data (if local)
+config.yaml
+GeoIP.conf
+*.mmdb
+metadata.json
+prompt.txt
