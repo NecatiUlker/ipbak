@@ -1,8 +1,8 @@
 # Binaries
-ipbak
-ipbak.exe
-*.exe
-*.dll
+/ipbak
+/ipbak.exe
+/*.exe
+/*.dll
 
 # OS Specific
 .DS_Store
